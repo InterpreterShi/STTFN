@@ -1,5 +1,5 @@
 
-# STTFN: Spatial-Temporal Tensor Fusion Network
+# STTFN:  Spatio-Temporal Tensor Fusion Network 
 
 Official source code for the paper: **"Decoupled Representation Learning for Traffic Forecasting with Dual-Plane Spatial-Temporal Tensor Fusion"**
 
