@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## 📊 Dataset Preparation
-We evaluate on **PeMS03, PeMS04, PeMS07,** and **PeMS08**.
+We evaluate on **PeMS04, and **PeMS08**.
 Place your `.npz` files in the `dataset/` directory as follows:
 ```
 STTFN/
