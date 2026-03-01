@@ -63,11 +63,6 @@ Our ablation study on fusion methods (Section 4.5) demonstrates the superiority 
 
 For more detailed results, check `experiment_results.json` and `fusion_ablation_results.png`.
 
-## 📂 Citation
-If you find this research helpful, please cite our paper:
-```bibtex
-# Placeholder for your paper citation
-```
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
